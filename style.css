@@ -95,6 +95,7 @@ button.normal {
 #navbar li a:hover,
 #navbar li a.active {
   color: #088178;
+  cursor: pointer;
 }
 
 #navbar li a.active::after,
